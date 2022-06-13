@@ -8,7 +8,7 @@ In today's time, URL is the soul of a domain that boosts website rankings. Perma
 
 ## Example
 * Post Title: Generate your Blog Permalink in just one click
-* Post URL: http://example.com/generate-your-blog-permalink-in-just-one-click
+* Post URL: https://example.com/generate-your-blog-permalink-in-just-one-click
 
 ## Reference
 * [SEO friendly Permalink Generator - jQuery Furl](https://www.jqueryscript.net/other/seo-permalink-furl.html)
