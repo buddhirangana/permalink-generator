@@ -4,5 +4,5 @@ Using regular expressions we create a quick and effective way to generate a frie
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
 
-### Reference
+## Reference
 * [SEO friendly Permalink Generator - jQuery Furl](https://www.jqueryscript.net/other/seo-permalink-furl.html)
